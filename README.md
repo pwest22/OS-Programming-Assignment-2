@@ -14,7 +14,7 @@ The first two lines are reserved for the number of programs (first line) and the
 Each subsequent line is reserved for the processess' allocations and their maximums.\
 The final three lines are reserved for the available resources.
 # Purpose:
-This code is an example of The Banker's Algorithm, showing the safe sequence for any given number of programs and resources.
+This code is an example of The Banker's Algorithm, (theoretically) showing the safe sequence for any given number of programs and resources.
 # Output:
 This code will output the safe sequence of the programs given in the input file.
 For this particular input file, the code outputs the following:
