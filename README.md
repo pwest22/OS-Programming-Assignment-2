@@ -20,7 +20,7 @@ This code will output the safe sequence of the programs given in the input file.
 For this particular input file, the code outputs the following:
 ```
 The following sequence is a safe sequence:
-P1 then P3 then P4 then P0 then P2
+P1 then P3 then P4 then P0 then P2.
 ```
 # Resources
 Here is a list of the websites I got information from:
